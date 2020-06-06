@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "H:\01_AVR_vrl\000_Work_05_Atmega8_PPSH\at8_PWM3\labels.tmp" -fI -W+ie -o "H:\01_AVR_vrl\000_Work_05_Atmega8_PPSH\at8_PWM3\at8_PWM3.hex" -d "H:\01_AVR_vrl\000_Work_05_Atmega8_PPSH\at8_PWM3\at8_PWM3.obj" -e "H:\01_AVR_vrl\000_Work_05_Atmega8_PPSH\at8_PWM3\at8_PWM3.eep" -m "H:\01_AVR_vrl\000_Work_05_Atmega8_PPSH\at8_PWM3\at8_PWM3.map" "H:\01_AVR_vrl\000_Work_05_Atmega8_PPSH\at8_PWM3\at8_PWM3.asm"
